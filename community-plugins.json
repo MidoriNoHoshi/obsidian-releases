@@ -51063,5 +51063,12 @@
     "author": "xzhi",
     "description": "中文:通过哈希算法自动重命名粘贴到仓库中的图片；Hash Pasted Image 加强版，新增忽略指定目录、中英文界面、目录模糊选择等功能。 | EN:Auto rename pasted images added to the vault via hash algorithm; Enhanced version of Hash Pasted Image with ignored directories, bilingual UI, and fuzzy folder selection. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "github-xzhi/obsidian-hash-pasted-image-plus"
+  },
+  {
+    "id": "scrollstream",
+    "name": "ScrollStream",
+    "author": "MidoriNoHoshi",
+    "description": "Notes stream in tandem with relevant chapters as you read your document.",
+    "repo": "MidoriNoHoshi/ScrollStream"
   }
 ]
